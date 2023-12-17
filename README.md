@@ -1,16 +1,13 @@
-### Hi there 👋
+🔐 About Me: 
+👋 Hello, I'm Aishwarya Channappaji, currently pursuing Master's in Cybersecurity with 2+ years of work experience on VMware administration, Server, Storage and Network virtualisation at Hewlett Packard Enterprise.
 
-<!--
-**aishwaryagowdac/aishwaryagowdac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Network and Cybersecurity enthusiast specializing in Network security, socket programming in python, and a VMware certified professional, with a Bachelor's degree in Electronics and Communications Engineering from Visvesvaraya Technological University, Karanataka.
 
-Here are some ideas to get you started:
+📚 Continuous Learning: 
+I am currently immersed in exploring the intricacies of cybersecurity techniques and am constantly sharpening my skills to contribute meaningfully to the cybersecurity ecosystem. Seeking to work together on projects that enhance the security around us and defend the digital frontier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 GitHub Repositories: 
+Explore my repositories to find a collection of projects, scripts, and tools centered around network and security.
+
+
+
